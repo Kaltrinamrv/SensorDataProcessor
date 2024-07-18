@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using SensorDataProcessor.Services;
 
 [ApiController]
 [Route("api/[controller]")]
