@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorDataProcessor", "SensorDataProcessor\SensorDataProcessor.csproj", "{D566FF6E-C3F8-40C6-AAB8-4026BF28586D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorDataAPI", "SensorDataAPI\SensorDataAPI.csproj", "{BE634DC2-E246-4A89-B9ED-C971559CC2AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D566FF6E-C3F8-40C6-AAB8-4026BF28586D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D566FF6E-C3F8-40C6-AAB8-4026BF28586D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D566FF6E-C3F8-40C6-AAB8-4026BF28586D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D566FF6E-C3F8-40C6-AAB8-4026BF28586D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE634DC2-E246-4A89-B9ED-C971559CC2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE634DC2-E246-4A89-B9ED-C971559CC2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE634DC2-E246-4A89-B9ED-C971559CC2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE634DC2-E246-4A89-B9ED-C971559CC2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAE8341A-63C5-4B7D-8457-19FE6420324B}
+	EndGlobalSection
+EndGlobal
